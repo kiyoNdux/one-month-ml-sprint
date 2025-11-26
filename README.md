@@ -1,4 +1,4 @@
-# One-Month ML + Backend Sprint
+# One-Month ML Sprint
 
 This repository documents my **intensive, full-time one-month sprint** from **November 27 to December 23, 2025**, where I focused on building hands-on skills in **Linear Algebra, Probability & Statistics, Backend Engineering, and Machine Learning**. My goal was to create **hackathon-ready projects and end-to-end pipelines**, while keeping a clear record of everything I learned.
 
@@ -8,7 +8,7 @@ This repository documents my **intensive, full-time one-month sprint** from **No
 
 | Week | Dates | Focus | Key Deliverables |
 |------|-------|-------|----------------|
-| 1 | Nov 27 – Dec 3 | Linear Algebra + Vector Calculus | micro-projects, MatrixOps class, visual notebook |
+| 1 | Nov 27 – Dec 3 | Linear Algebra | micro-projects, MatrixOps class, visual notebook |
 | 2 | Dec 4 – Dec 10 | Probability & Statistics | Simulated distributions project, DS workflow notebook |
 | 3 | Dec 11 – Dec 17 | Backend Engineering | Async API endpoints, background jobs, Redis pipelines, WebSocket service |
 | 4 | Dec 18 – Dec 23 | Full ML Project | End-to-end ML pipeline: data ingestion → preprocessing → models → API → minimal frontend |
@@ -17,7 +17,7 @@ This repository documents my **intensive, full-time one-month sprint** from **No
 
 ## Goals & Reflections
 
-- I wanted to achieve **deep mastery** in math, stats, backend, and ML.  
+- I wanted to learn the **fundamentals** of the linear algebra, stats, backend, that are used in ML.  
 - I aimed to produce **hackathon-ready pipelines** while keeping everything documented.  
 - I kept a **structured record** of my progress, reflections, and project outputs.  
 - The sprint allowed me to develop **portfolio-quality projects** that integrate both theory and practice.
@@ -33,4 +33,3 @@ This repository documents my **intensive, full-time one-month sprint** from **No
 ---
 
 This repository is my **living record** of a concentrated, one-month sprint — capturing the process, the challenges, and the results of building end-to-end ML and backend expertise.
-
