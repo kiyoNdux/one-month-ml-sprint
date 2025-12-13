@@ -6,12 +6,12 @@ This repository documents my **intensive, full-time one-month sprint** from **No
 
 ## Sprint Timeline
 
-| Week | Dates | Focus | Key Deliverables |
-|------|-------|-------|----------------|
-| 1 | Nov 27 – Dec 3 | Linear Algebra | micro-projects, MatrixOps class, visual notebook |
-| 2 | Dec 4 – Dec 10 | Probability & Statistics | Simulated distributions project, DS workflow notebook |
-| 3 | Dec 11 – Dec 17 | Backend Engineering | Async API endpoints, background jobs, Redis pipelines, WebSocket service |
-| 4 | Dec 18 – Dec 23 | Full ML Project | End-to-end ML pipeline: data ingestion → preprocessing → models → API → minimal frontend |
+| Week  | Focus | Key Deliverables |
+|-------|-------|----------------|
+| 1 | Linear Algebra | micro-projects, MatrixOps class, visual notebook |
+| 2 | Probability & Statistics | Simulated distributions project, DS workflow notebook |
+| 3 || Backend Engineering | Async API endpoints, background jobs, Redis pipelines, WebSocket service |
+| 4 | Full ML Project | End-to-end ML pipeline: data ingestion → preprocessing → models → API → minimal frontend |
 
 ---
 
