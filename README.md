@@ -1,6 +1,6 @@
 # One-Month ML Sprint
 
-This repository documents my **intensive, full-time one-month sprint** from **November 27 to December 23, 2025**, where I focused on building hands-on skills in **Linear Algebra, Probability & Statistics, Backend Engineering, and Machine Learning**. My goal was to create **hackathon-ready projects and end-to-end pipelines**, while keeping a clear record of everything I learned.
+This repository documents my **intensive, full-time one-month sprint**, where I focused on building hands-on skills in **Linear Algebra, Probability & Statistics, Backend Engineering, and Machine Learning**. My goal was to create **hackathon-ready projects and end-to-end pipelines**, while keeping a clear record of everything I learned.
 
 ---
 
