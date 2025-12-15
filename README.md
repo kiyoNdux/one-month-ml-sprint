@@ -18,9 +18,7 @@ This repository documents my **intensive, full-time one-month sprint**, where I 
 ## Goals & Reflections
 
 - I wanted to learn the **fundamentals** of the linear algebra, stats, backend, that are used in ML.  
-- I aimed to produce **hackathon-ready pipelines** while keeping everything documented.  
 - I kept a **structured record** of my progress, reflections, and project outputs.  
-- The sprint allowed me to develop **portfolio-quality projects** that integrate both theory and practice.
 
 ---
 
