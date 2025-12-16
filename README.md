@@ -6,7 +6,7 @@ This repository documents my **intensive, full-time one-month sprint**, where I 
 
 ## Sprint Timeline
 
-| Week  | Focus | Key Deliverables |
+| Week  | Focus | Deliverables |
 |-------|-------|----------------|
 | 1 | Linear Algebra | micro-projects, MatrixOps class, visual notebook |
 | 2 | Probability & Statistics | Simulated distributions project, DS workflow notebook |
