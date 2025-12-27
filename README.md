@@ -10,7 +10,7 @@ This repository documents my **intensive, full-time one-month sprint**, where I 
 |-------|-------|----------------|
 | 1 | Linear Algebra | micro-projects, MatrixOps class, visual notebook |
 | 2 | Probability & Statistics | Simulated distributions project, DS workflow notebook |
-| 3 || Backend Engineering | Async API endpoints, background jobs, Redis pipelines, WebSocket service |
+| 3 | Backend Engineering | Async API endpoints, background jobs, Redis pipelines, WebSocket service |
 | 4 | Full ML Project | End-to-end ML pipeline: data ingestion → preprocessing → models → API → minimal frontend |
 
 ---
